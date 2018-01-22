@@ -51,9 +51,9 @@ Launch RT like :
 Now, a window named RT is running, select :
 
 ```
-Click [Open]
-then select the folder you've cloned
-then select [Scene]
+click [Open]
+then select the folder you've cloned [~/RT]
+then select the folder which contain the scene [Scene]
 and chose a scene [example.rt]
 ```
 
