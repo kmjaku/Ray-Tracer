@@ -6,7 +6,7 @@
 /*   By: kmjaku <kmjaku@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/07/12 02:15:09 by thchin            #+#    #+#             */
-/*   Updated: 2017/12/15 15:11:39 by kmjaku           ###   ########.fr       */
+/*   Updated: 2018/01/23 23:17:25 by kmjaku           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -68,7 +68,7 @@ int				rt_launch(char *filename)
 	img = IMG_Load("image/topo_1800.png");
 	init_skydome(img, scene);
 	SDL_FreeSurface(img);
-	scene->sky_surface = IMG_Load("image/star.jpg");
+	scene->sky_surface = IMG_Load("image/panoramic-beach.jpg");
 	init_sky(scene->sky_surface, scene);
 	init_permtable(scene);
 	if (NULL == (scene->bump_data = (t_image *)malloc(sizeof(t_image))))

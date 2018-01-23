@@ -1,10 +1,10 @@
 # Ray Tracer
 
-<img align="center" src="saved_img/1.png" width="100%" />
+<img align="center" src="image/screenshot/rtv1.png" width="100%" />
 <br />
 <br />
 <br />
-<img align="center" src="saved_img/2.png" width="100%" />
+<img align="center" src="image/screenshot/bump.png" width="100%" />
 
 This [Ray Tracer](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)) was created as a school project
 

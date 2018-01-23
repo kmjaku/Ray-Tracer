@@ -1,5 +1,5 @@
-#define WIDTH 900
-#define HEIGHT 900
+#define WIDTH 300
+#define HEIGHT 300
 #define FOC 1.0
 #define MAXRENDERDIST 8000.0f
 #define SPHERE 0
